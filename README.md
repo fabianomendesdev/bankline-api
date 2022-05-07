@@ -1,2 +1,2 @@
 # bankline-api
- Repositório criado no Bootcamp Santander
+ Repositório criado nas aulas do Santander Weekend
